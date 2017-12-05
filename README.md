@@ -1,7 +1,3 @@
-# react-scaf
+# ReactJS application - search through nasa pictures
 
-Grab the files if you need React project fast. It contains
-
-### Webpack
-### Babel
-### React
+Render nasa pictures using ReactJS and save the interesting ones to view later
